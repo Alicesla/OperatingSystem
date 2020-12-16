@@ -21,7 +21,6 @@ PKU OS course project and notes based on Nachos and XV6.
 
 > [**Quick start with docker!! (recommend)**](Lab/Lab0_BuildNachos/DevEnvironment.md#Use-Docker-with-32bit-image)
 
-### XV6 Source Code Reading
 
 1. [Process and Thread (with Scheduling)](Notes/XV6/XV6ProcessThread.md)
 2. [Synchronization Mechanism](Notes/XV6/XV6Synchronization.md)
